@@ -1,2 +1,2 @@
 # ReciPro
-This repository manages our mini project named RecicPro which is an end semester project under Web-Programming Subject.
+This repository manages our mini project, ReciPro, an end-semester project under the Web-Programming Subject.
